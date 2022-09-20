@@ -1,8 +1,7 @@
- import java.sql.*;
+import java.sql.*;
 import javax.swing.*;
 import Project.ConnectionProvider;
 import java.text.SimpleDateFormat;
-import java.util.Date;
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
